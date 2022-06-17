@@ -2,7 +2,7 @@
     --primary-font-size: 14px;
     --font-sixi-h2: 24px;
     --primary-color: #23A6F0;
-    --light-text-color: #fff;
+    --light-color: #fff;
     --text-color-h3: #252B42;
     --text-color-description: #737373;
     --font-weigth-text: 400;
@@ -19,7 +19,6 @@ body, h1, h2, h3, ul, ol, p, div, hr {
 
 body {
     font-family: 'Montserrat', sans-serif;
-    letter-spacing: 0.2;
     font-weight: 700;
 }
 
