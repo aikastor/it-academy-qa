@@ -232,7 +232,7 @@
     margin-top: 80px;
 }
 
-@media(max-width: 375px) {
+@media(max-width: 376px) {
     .header {
         padding: 19px 50px 0px 40px
     }
@@ -263,7 +263,6 @@
 
     .section-description-carts {
         flex-direction: column;
-
     }
 
     .section-description-cart {
